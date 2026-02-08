@@ -1,4 +1,4 @@
-# 👩‍💼 Employee Data Analysis Dashboard — ATS Optimized
+# 👩‍💼 Employee Data Analysis Dashboard
 
 An interactive **Exploratory Data Analysis (EDA) Dashboard** built using **Python & Streamlit** to analyze employee workforce data. The application provides insights into employee demographics, salary distribution, experience trends, and organizational patterns through visual analytics.
 
